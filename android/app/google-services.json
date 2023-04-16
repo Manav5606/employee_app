@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301692068813",
+    "project_id": "testapp-78fd4",
+    "storage_bucket": "testapp-78fd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301692068813:android:019b51dcafea248fe05a84",
+        "android_client_info": {
+          "package_name": "com.manavsapplication.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301692068813-mv1ac1i1ipl7rh4e8pu4rntmdaq8nqdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq98DuWA5kyZgZRR31pwiOPsB87tAKCVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301692068813-mv1ac1i1ipl7rh4e8pu4rntmdaq8nqdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
